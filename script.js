@@ -120,6 +120,7 @@ function toggle() {
   toggleBtn.classList.toggle('active');
   lC.classList.toggle('active');
   lT.classList.toggle('active');
+  toggleBtn.setAttribute('aria-checked', teleport ? 'true' : 'false');
   reset();
 }
 
