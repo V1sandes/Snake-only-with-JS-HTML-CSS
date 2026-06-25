@@ -9,7 +9,7 @@
 ## Деплой
 
 Проект доступен по ссылке:
-https://github.com/V1sandes/Snake-only-with-JS-HTML-CSS/issues
+[https://github.com/V1sandes/Snake-only-with-JS-HTML-CSS/issues](https://v1sandes.github.io/Snake-only-with-JS-HTML-CSS/)
 
 ## Запуск локально
 
